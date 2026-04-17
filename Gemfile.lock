@@ -101,7 +101,7 @@ GEM
       equalizer (~> 0.0.7)
       parser (~> 2.1.0)
       procto (~> 0.0.2)
-    yard (0.8.7.3)
+    yard (0.9.42)
 
 PLATFORMS
   java
